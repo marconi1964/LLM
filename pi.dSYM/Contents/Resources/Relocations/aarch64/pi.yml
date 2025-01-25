@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/marconijiang/Developments/project-1/LLM/pi'
+relocations:     []
+...
